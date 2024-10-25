@@ -4,7 +4,7 @@ Responsive calculator built with **HTML**, **CSS**, and **JavaScript**. It featu
 
 ## Live Link
 
-[Click here to view the live demo](https://supriyomaity1207.github.io/calculator/)
+[Click here to view the live demo](https://supriyo-1207.github.io/calculator/)
 
 ## Preview
 
